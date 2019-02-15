@@ -9,4 +9,5 @@ Files Description:
 
 
 References:
-https://www.tensorflow.org/tutorials/keras/basic_text_classification
+- https://www.tensorflow.org/tutorials/keras/basic_text_classification
+- https://keras.io/preprocessing/text/
